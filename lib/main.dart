@@ -33,7 +33,7 @@ class NavBarWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       height: 50,
-      color: Colors.red,
+      color: Colors.cyan,
     );
   }
 }
